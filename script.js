@@ -1,4 +1,4 @@
-const upload = document.getElementById("upload");
+/*const upload = document.getElementById("upload");
 const imagem = document.getElementById("imagem");
 
 const likeBtn = document.getElementById("likeBtn");
@@ -28,4 +28,4 @@ likeBtn.addEventListener("click", () => {
 
     contador++;
     likes.textContent = contador;
-});             
+});             */

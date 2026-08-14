@@ -1,4 +1,5 @@
-/*const upload = document.getElementById("upload");
+/*
+00const upload = document.getElementById("upload");
 const imagem = document.getElementById("imagem");
 
 const likeBtn = document.getElementById("likeBtn");
